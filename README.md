@@ -1,10 +1,10 @@
 # 🎮 Unreal Engine Tutorial Projects
 
-This repository contains five game development projects I built while completing the [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/) course on Udemy. The course, created in collaboration with Epic Games, offers a hands-on approach to learning Unreal Engine 5 and C++ by guiding students through the creation of multiple games.
+This repository contains five game development project's C++ code I built while completing the [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/) course on Udemy. The course, created in collaboration with Epic Games, offers a hands-on approach to learning Unreal Engine 5 and C++ by guiding students through the creation of multiple games.
 
 ## 🚀 Projects Overview
 
-### 1. **Warehouse Wreckage**
+### 1. **Warehouse Wreckage**[Was Built with Blueprints]
 - **Genre:** Destruction Simulator
 - **Focus:** C++ Basics & Game Setup
 - **Itch.io:** [Download from Itch.io](https://gaurang-2005.itch.io/warehouse-wreckage-udemy)
