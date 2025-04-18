@@ -1,8 +1,8 @@
 # 🎮 Unreal Engine Tutorial Projects
 
-This repository contains the **C++ source code** for five game development projects I built while completing the [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/) course on Udemy. The course offers a hands-on approach to learning Unreal Engine 5 and C++ by guiding students through the creation of multiple games.
+This repository contains five game development projects I built while completing the [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/) course on Udemy. The course offers a hands-on approach to learning Unreal Engine 5 and C++ by guiding students through the creation of multiple games.
 
-> ⚠️ _Note: This repository includes only the source code (C++) for each project. For full playable versions, please download from the Itch.io links listed below._
+> ⚠️ **Note:** This repository only contains the C++ source code (no packaged builds or full project files). You can download and play the final builds on Itch.io using the links below. Also, the first project (Warehouse Wreckage) was built entirely using Blueprints, so its source code is not included.
 
 ## 🚀 Projects Overview
 
@@ -10,6 +10,7 @@ This repository contains the **C++ source code** for five game development proje
 - **Genre:** Destruction Simulator
 - **Focus:** C++ Basics & Game Setup
 - **Itch.io:** [Download from Itch.io](https://gaurang-2005.itch.io/warehouse-wreckage-udemy)
+- **Note:** Source code not available (Blueprint-only project)
 - **Skills Learned:**
   - Actor classes and components
   - Object interactions
@@ -66,5 +67,5 @@ This repository contains the **C++ source code** for five game development proje
 
 ---
 
-Feel free to explore the source code and download the games to try them out!
+Feel free to clone this repository, explore the code, and check out the final games through the Itch.io links!
 
